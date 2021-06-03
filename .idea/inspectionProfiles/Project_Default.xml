@@ -1,0 +1,8 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="ClangTidyInspection" enabled="true" level="ERROR" enabled_by_default="true">
+      <scope name="项目文件" level="WARNING" enabled="true" />
+    </inspection_tool>
+  </profile>
+</component>
